@@ -1,17 +1,14 @@
 ### 👋 Hello! I'm Anthony Awoyele
 A self-taught security engineer passionate about information security and determined to significantly impact this dynamic field. As a recent Google Cybersecurity Professional Certificate program graduate, I'm actively building and refining my skills across various tools and technologies to become a proficient security engineer.
 
-Below is an overview of the tools and software I'm working with and continuously learning. From network analysis to SIEM tools, I'm dedicated to expanding my knowledge and practical experience in cybersecurity, focusing on the skills critical for a security engineering role.
-
 🌐 Check out my [cybersecurity portfolio](https://owlsignal.github.io)
 
-I'm excited to share my progress and demonstrate my commitment to growth in the cybersecurity field. Join me on this journey as I work towards becoming a skilled security engineer!
+Below is an overview of the tools and software I'm working with and continuously learning. From network analysis to SIEM tools, I'm dedicated to expanding my knowledge and practical experience in cybersecurity, focusing on the skills critical for a security engineering role.
 
 <details>
 
   <summary>Tools 🛠️</summary>
  
-
 ### 🌐 Network Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Tcpdump](https://img.shields.io/badge/Tcpdump-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
@@ -79,14 +76,12 @@ I'm excited to share my progress and demonstrate my commitment to growth in the 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </details>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20doer%20alone%20learneth.&author=Friedrich%20Nietzsche&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+Github Stats 📊
 
-<details>
-  <summary>Github Stats 📊</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owlsignal&show_icons=true&theme=merko)](https://github.com/signal/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=owlsignal&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=owlsignal&show_icons=true&theme=merko) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=owlsignal&theme=merko&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsignal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</details>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20doer%20alone%20learneth.&author=Friedrich%20Nietzsche&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 [![](https://visitcount.itsvg.in/api?id=owlsignal&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)

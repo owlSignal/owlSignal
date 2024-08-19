@@ -1,13 +1,16 @@
-👋 Hello! I'm a security engineer passionate about information security and determined to significantly impact this dynamic field. As a recent graduate of the Google Cybersecurity Professional Certificate program, I'm actively building and refining my skills across a range of tools and technologies to become a proficient security engineer.
+### 👋 Hello! I'm Anthony Awoyele
+A self-taught security engineer passionate about information security and determined to significantly impact this dynamic field. As a recent Google Cybersecurity Professional Certificate program graduate, I'm actively building and refining my skills across various tools and technologies to become a proficient security engineer.
 
 Below is an overview of the tools and software I'm working with and continuously learning. From network analysis to SIEM tools, I'm dedicated to expanding my knowledge and practical experience in cybersecurity, focusing on the skills critical for a security engineering role.
 
-🔍 Curious about my projects and how I'm applying these skills in real-world scenarios?</br>
-🌐 Check out my entire cybersecurity portfolio here [https://owlsignal.github.io](https://owlsignal.github.io)
+🌐 Check out my [cybersecurity portfolio](https://owlsignal.github.io)
 
-I'm excited to share my progress and demonstrate my commitment to growth in the cybersecurity field. Join me on this journey as I work towards my goal of becoming a skilled security engineer!
+I'm excited to share my progress and demonstrate my commitment to growth in the cybersecurity field. Join me on this journey as I work towards becoming a skilled security engineer!
 
-# 🛠️ Tools
+<details>
+
+  <summary>Tools 🛠️</summary>
+ 
 
 ### 🌐 Network Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -37,8 +40,11 @@ I'm excited to share my progress and demonstrate my commitment to growth in the 
 
 ### 🔢 Encoding/Decoding Tools
 ![Base64 Decode](https://img.shields.io/badge/Base64_Decode-FFA116?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAEeSURBVHjajNGxSsNQFMbxX5pcEqmDFkEFB3HIZrCTSzcfwD5EH8CngbyCm4Ob4FzcLJlFMgnSCBKqgWQwpAmkJiZp7nVwyQ2m/W4HvnN+H+cePoccx0EURZBlGbIsI4oiOI4D3/fheR48z4NlWTBNE4ZhQNd1aJoGVVWhKApkWUaSJEiSBEEQOudut0Ov10O73Uaj0YBhGKjX66hUKlBVFYIggCRJFk3TFNfrNRaLBRzHwXA4xGg0wng8xnQ6hW3bmEwmOBwOMJ/P0e/3USwWQQgBpRS+72OxWKDZbKLdbmMwGGA2m8F1Xezt7WE6nWI2m2G5XOJ4PFIAUBQFmUwGuVwOQggoipLGGIMkSchms0in0yb5/fy/fR8BBgBJOUgKJvS+YQAAAABJRU5ErkJggg==&logoColor=white)
+</details>
 
-# 💻 Software
+<details>
+
+  <summary>Software 💻</summary>
 
 ### 🖥️ Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -71,12 +77,16 @@ I'm excited to share my progress and demonstrate my commitment to growth in the 
 
 ### 🌐 Web Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</details>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20doer%20alone%20learneth.&author=Friedrich%20Nietzsche&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
----
-[![](https://visitcount.itsvg.in/api?id=owlsignal&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
+<details>
+  <summary>Github Stats 📊</summary>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owlsignal&show_icons=true&theme=merko)](https://github.com/signal/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=owlsignal&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=owlsignal&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</details>
+
+---
+[![](https://visitcount.itsvg.in/api?id=owlsignal&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
